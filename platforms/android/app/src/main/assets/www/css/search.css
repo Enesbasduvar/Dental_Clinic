@@ -1,0 +1,55 @@
+#box {
+    width: 100%;
+    position: relative;
+}
+
+#box .fa-search {
+    position: absolute;
+    top: 14px;
+    left: 12px;
+    font-size: 20px;
+    color:cornflowerblue;
+}
+
+#search {
+    width: 100%;
+    box-sizing: border-box;
+    border: 2px solid cornflowerblue;
+    background: #ffffff;
+    border-radius: 4px;
+    font-size:18px;
+    padding: 12px 20px 12px 40px;
+    -moz-transition: width 0.4s ease-in-out;
+    -o-transition: width 0.4s ease-in-out;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+
+}
+
+#search:focus {
+    width: 90%;
+}
+
+/* Page content */
+.content {
+    padding: 16px;
+}
+
+/* The sticky class is added to the header with JS when it reaches its scroll position */
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 90%
+}
+
+/* Add some top padding to the page content to prevent sudden quick movement (as the header gets a new position at the top of the page (position:fixed and top:0) */
+.sticky + .content {
+    padding-top: 102px;
+}
+
+#ara {
+    width: 100%;
+    margin-top: 10px;
+
+
+}
