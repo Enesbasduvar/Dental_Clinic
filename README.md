@@ -1,6 +1,10 @@
-# Convert Website to Android App Using Apache Cordova & Publishing app to Google Play Store
+# Dental_Clinic
 
-Watch tutorial here
+## Açıklama
+Bu proje, ambulanslarda çalışan sağlık personeline yardımcı olmak için tasarlanmış bir uygulamadır. Uygulama, ambulanstaki ekipmanlar ve ilaçlar hakkında bilgi sağlar. Ambulanstaki ekipmanların ve ilaçların adlarıyla birlikte etken maddeleri hakkında bilgiler sunar.
 
-https://www.youtube.com/c/SulochanaTutorials
+## Lisans
+Bu proje [MIT Lisansı](https://opensource.org/licenses/MIT) altında lisanslanmıştır. Daha fazla bilgi için [LİSANS](LICENSE) dosyasına bakınız.
 
+## İletişim
+Eğer projeyle ilgili herhangi bir sorunuz veya geri bildiriminiz varsa, enes.basduvar@mail.com adresine e-posta gönderebilirsiniz.
